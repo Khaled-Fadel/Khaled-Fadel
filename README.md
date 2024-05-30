@@ -46,15 +46,6 @@
 
 
 <br>
-<hr>
-<br>
-
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-<br>
 <br>
 
 <h2 align="center"><i>Follow me <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></i></h2>
